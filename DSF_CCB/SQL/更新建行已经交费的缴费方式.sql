@@ -1,0 +1,1 @@
+update Q_JFXX set JFFS='18' where SFRBH='9988'
